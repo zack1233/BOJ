@@ -4,7 +4,7 @@
 int main() {
 
 	int len;
-	int a;//�Է°�
+	int a;//ÀÔ·Â°ª
 
 	std::cin >> std::hex >> a;
 
