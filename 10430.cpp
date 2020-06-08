@@ -15,7 +15,7 @@ int main() {
 	std::cout << (num[0] + num[1]) % num[2] << std::endl; //(A+B)%C
 	std::cout << ((num[0] % num[2]) + (num[1] % num[2])) % num[2] << std::endl; //((A%C) + (B%C))%C
 	std::cout << (num[0] * num[1]) % num[2] << std::endl; //(A*B)%C
-	std::cout<< ((num[0] % num[2]) * (num[1] % num[2])) % num[2]; //((A%C) ¡¿ (B%C))%C
+	std::cout<< ((num[0] % num[2]) * (num[1] % num[2])) % num[2]; //((A%C) Â¡Â¿ (B%C))%C
 
 	return 0;
 
