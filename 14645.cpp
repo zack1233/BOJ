@@ -14,7 +14,7 @@ int main() {
 		cin >> arr[i][0] >> arr[i][1];
 	}
 
-	cout << "ºñ¿ÍÀÌ";
+	cout << "ÂºÃ±Â¿ÃÃ€ÃŒ";
 
 	return 0;
 }
